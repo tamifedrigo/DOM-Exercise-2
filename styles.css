@@ -1,0 +1,18 @@
+.menu-content {
+    display: none;
+}
+
+.menu-toggle:click .menu-toggle-content {
+display: block;
+}
+
+.letters {
+    display: none;
+}
+
+.letters:click .letters-content {
+    display: block;
+}
+.numbers {
+    display: none;
+}
